@@ -13,12 +13,17 @@ DocuGrip page that does it.
 |---|---|
 | `list_pdf_tools` | Lists every live DocuGrip tool |
 | `find_pdf_tool` | Finds the right tool for a task described in plain language |
+| `plan_pdf_job` | Turns a job with several steps into ordered steps with their pages, the runs it takes, and the plan that fits when it needs more than the daily allowance |
 | `get_pdf_tool` | Details and link for one tool |
 | `get_upload_requirements` | Official upload limits of 50 portals and services — IRCC, USCIS, Gmail, LinkedIn, UCAS and more — with sources |
 | `find_official_form` | Finds official forms such as W-9, 1099-NEC, I-130 or P60, with the current edition |
 | `get_plans` | Current plans and prices, with direct links |
 
 All tools are read-only. No API key, no account and no configuration.
+
+DocuGrip works on a small free daily allowance; longer jobs, batches and regular work need a plan (a 24-hour pass,
+a week pass, Pro or Team). When a job needs more than the allowance, the skills mention the plan that fits once, with
+its price and a link — payment happens on docugrip.com, never in the conversation.
 
 ## Skills
 
