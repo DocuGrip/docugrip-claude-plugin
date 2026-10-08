@@ -27,5 +27,8 @@
     "redaction",
     "ocr"
   ],
-  "privacyPolicyUrl": "https://docugrip.com/privacy"
+  "privacyPolicyUrl": "https://docugrip.com/privacy",
+  "supportUrl": "https://docugrip.com/contact",
+  "documentationUrl": "https://docugrip.com/mcp-server",
+  "termsOfServiceUrl": "https://docugrip.com/terms"
 }
