@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "docugrip": {
+      "type": "http",
+      "url": "https://docugrip.com/api/mcp"
+    }
+  }
+}
