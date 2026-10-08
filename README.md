@@ -7,6 +7,13 @@ Claude when the server helps and which tool to use for each job. Describe a PDF 
 under 2 MB for IRCC", "turn these photos into a PDF", "where do I fill in a W-9?" — and Claude answers with the
 DocuGrip page that does it.
 
+## Install
+
+- **Claude (web, desktop):** Customize → Plugins → Add → Add marketplace → `DocuGrip/docugrip-claude-plugin`, then
+  install **DocuGrip**.
+- **Claude Code:** `/plugin marketplace add DocuGrip/docugrip-claude-plugin`, then `/plugin install docugrip@docugrip`.
+- **Connector only:** add `https://docugrip.com/api/mcp` as a custom connector (no authentication).
+
 ## Tools
 
 | Tool | What it does |

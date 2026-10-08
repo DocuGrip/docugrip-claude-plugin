@@ -1,0 +1,26 @@
+{
+  "name": "docugrip",
+  "owner": {
+    "name": "DocuGrip",
+    "email": "support@docugrip.com",
+    "url": "https://docugrip.com"
+  },
+  "metadata": {
+    "description": "DocuGrip for Claude: PDF tools, official upload size limits and official forms.",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "docugrip",
+      "source": "./",
+      "description": "Compress, merge, convert, sign and fill PDFs, get official upload size limits for 50 portals, and find official forms like W-9 or I-130 — with ten skills for job applications, immigration packets, court e-filing, tax forms, scans and redaction.",
+      "version": "1.2.0",
+      "author": { "name": "DocuGrip", "email": "support@docugrip.com" },
+      "homepage": "https://docugrip.com/mcp-server",
+      "repository": "https://github.com/DocuGrip/docugrip-claude-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["pdf", "compress pdf", "merge pdf", "fill pdf form", "sign pdf", "upload size limits", "official forms", "redaction", "ocr"]
+    }
+  ]
+}
