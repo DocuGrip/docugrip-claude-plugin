@@ -2,7 +2,7 @@
   "name": "docugrip",
   "displayName": "DocuGrip",
   "version": "1.2.0",
-  "description": "Compress, merge, convert, sign and fill PDFs, get official upload size limits for 50 portals, and find official forms like W-9 or I-130 \u2014 with ten skills for job applications, immigration packets, court e-filing, tax forms, scans and redaction.",
+  "description": "Compress, merge, convert, sign and fill PDFs, get official upload size limits for 50 portals, and find official forms like W-9 or I-130 — with ten skills for job applications, immigration packets, court e-filing, tax forms, scans and redaction.",
   "author": {
     "name": "DocuGrip",
     "email": "support@docugrip.com",
@@ -26,5 +26,6 @@
     "court e-filing",
     "redaction",
     "ocr"
-  ]
+  ],
+  "privacyPolicyUrl": "https://docugrip.com/privacy"
 }
